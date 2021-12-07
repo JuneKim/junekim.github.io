@@ -5,11 +5,11 @@
   date: "Sep 19 – 22 2022"
   description:  International Symposium on Reliable Distributed Systems
   link: https://srds-conference.org/
-  comment: Three deadlines
-  deadline: "2022-04-4 23:59"
+  comment: Title and abstract deadline on April 4th
+  deadline: "2022-04-11 23:59"
   place: Vienna, Austria
-  tags: [SEC]
-
+  tags: SEC
+  
 - name: S&P (Oakland)
   year: 2022
   date: "May 22 – 26 2022"
