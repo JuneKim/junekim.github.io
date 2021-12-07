@@ -1,5 +1,18 @@
 ---
 # Security and Privacy
+- name: SRDS
+  year: 2022
+  date: "Sep 19 – 22 2022"
+  description:  International Symposium on Reliable Distributed Systems
+  link: https://srds-conference.org/
+  comment: Three deadlines
+  deadline:
+    - "2022-04-4 23:59"
+    - "2022-04-11 23:59"
+    - "2022-06-17 23:59"
+  place: Vienna, Austria
+  tags: [SEC]
+
 - name: S&P (Oakland)
   year: 2022
   date: "May 22 – 26 2022"
