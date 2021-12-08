@@ -1,6 +1,7 @@
 # Security and Privacy deadlines countdown
 
-Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
+Based on [ai-deadlines](https://aideadlin.es) by @abshkdz and [sec-dealines](https://sec-deadlines.github.io/)
+Added more related conferences
 
 ## Adding/updating a conference
 
