@@ -37,6 +37,7 @@ Descriptions of the fields:
 | `date`        | When the conference is happening                            |
 | `place`       | Where the conference is happening                           |
 | `tags`        | One or multiple tags: `SEC`, `PRIV`, or `CRYPTO`            |
+| `core`        | Core ranking                                                |
 
 Fields marked with asterisk (\*) are required.
 
