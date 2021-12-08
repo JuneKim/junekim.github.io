@@ -32,12 +32,14 @@
   description: The 24th International Conference on Information and Communications Security
   link: https://icics2022.cyber.kent.ac.uk/index.php
   deadline: "2022-03-21 23:59"
+  comment: 
   place: University of Kent, Canterbury, UK
   tags: [SEC, PRIV]
 
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
   year: 2022
+  core: A
   link: https://www.ieee-security.org/TC/EuroSP2022/
   deadline: "2021-09-22 23:59"
   date: "June 6 - 10"
@@ -73,6 +75,7 @@
 - name: Usenix
   description: Usenix Security Symposium
   year: 2022
+  core: A*
   link: https://www.usenix.org/conference/usenixsecurity22
   deadline:
     - "2021-06-08 23:59"
@@ -305,8 +308,9 @@
   year: 2022
   core: A
   link: https://waset.org/distributed-computing-and-supercomputing-conference-in-december-2022-in-sydney
-  deadline: "2021-03-26 23:59"
+  deadline: "2022-01-24 23:59"
   date: December 02-03
+  comments: Title and abstract deadline on Jan 17
   place: Sydney, Australia
   tags: COM
 
