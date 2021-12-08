@@ -299,6 +299,17 @@
   place: Online Event
   tags: [CRYPTO, PRIV]
 
+# Distributed computing or machine learning
+- name: ICDCS
+  description: International Conference on Distributed Computing and Supercomputing
+  year: 2022
+  core: A
+  link: https://waset.org/distributed-computing-and-supercomputing-conference-in-december-2022-in-sydney
+  deadline: "2021-03-26 23:59"
+  date: December 02-03
+  place: Sydney, Australia
+  tags: COM
+
 # Networks and systems, applications
 
 - name: RAID
