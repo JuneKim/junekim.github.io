@@ -3,16 +3,18 @@
 - name: SRDS
   year: 2022
   date: "Sep 19 – 22 2022"
+  core: B
   description:  International Symposium on Reliable Distributed Systems
   link: https://srds-conference.org/
   comment: Title and abstract deadline on April 4th
   deadline: "2022-04-11 23:59"
   place: Vienna, Austria
   tags: SEC
-  
+    
 - name: S&P (Oakland)
   year: 2022
   date: "May 22 – 26 2022"
+  core: A*
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2022/
   comment: Three deadlines
@@ -26,6 +28,7 @@
 - name: ICICS
   year: 2022
   date: "Sept 05 – 08 2022"
+  core: B
   description: The 24th International Conference on Information and Communications Security
   link: https://icics2022.cyber.kent.ac.uk/index.php
   deadline: "2022-03-21 23:59"
@@ -44,6 +47,7 @@
 - name: CCS
   description: ACM Conference on Computer and Communications Security
   year: 2021
+  core: A*
   link: https://www.sigsac.org/ccs/CCS2021/
   deadline:
     - "2021-01-20 23:59"
@@ -56,6 +60,7 @@
 - name: AsiaCCS
   description: ACM Asia Conference on Computer and Communications Security
   year: 2022
+  core: A
   link: https://asiaccs2022.conferenceservice.jp/
   deadline:
     - "2021-07-30 23:59"
@@ -81,6 +86,7 @@
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
   year: 2022
+  core: A*
   link: https://www.ndss-symposium.org/ndss2022/
   comment: 2 review cycles
   deadline:
@@ -93,6 +99,7 @@
 - name: ESORICS
   description: European Symposium on Research in Computer Security
   year: 2021
+  core: A
   link: https://esorics2021.athene-center.de/call-for-papers.php
   deadline: "2021-05-12 23:59"
   timezone: Etc/GMT-1
@@ -104,6 +111,7 @@
 - name: CANS
   description: International Conference on Cryptology and Network Security
   year: 2021
+  core: B
   link: https://cans2021.at/call-for-papers/
   deadline: "2021-06-17 23:59"
   timezone: Etc/UTC
@@ -123,6 +131,7 @@
 - name: SOUPS
   description: Usenix Symposium on Usable Security and Privacy
   year: 2021
+  core: B
   link: https://www.usenix.org/conference/soups2021
   deadline: "2021-02-25 23:59"
   comment: Collocated with Usenix Security; Paper registration due Feb 18 AoE.
@@ -133,6 +142,7 @@
 - name: FC
   description: Financial Cryptography and Data Security
   year: 2022
+  core: A
   link: https://fc22.ifca.ai/
   deadline: "2021-09-09 23:59"
   date: February 14-18
@@ -165,6 +175,7 @@
 - name: PETS
   description: Privacy Enhancing Technologies Symposium
   year: 2022
+  core: A
   link: https://petsymposium.org
   deadline:
     - "%y-05-31 23:59"
@@ -182,6 +193,7 @@
 - name: Crypto
   description: International Cryptology Conference
   year: 2020
+  core: A*
   link: https://crypto.iacr.org/2020
   deadline: "2020-02-11 16:00"
   timezone: Etc/GMT+5
@@ -202,6 +214,7 @@
 - name: Asiacrypt
   description: International Conference on the Theory and Application of Cryptology and Information Security
   year: 2019
+  core: A
   link: https://asiacrypt.iacr.org/2019
   deadline: "2019-05-14 05:00"
   timezone: Etc/UTC
@@ -230,6 +243,7 @@
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
   year: 2022
+  core: A
   link: https://www.ieee-security.org/TC/CSF2022
   deadline:
     - "2021-05-14 23:59"
@@ -243,6 +257,7 @@
 - name: PKC
   description: International Conference on Practice and Theory of Public Key Cryptography
   year: 2020
+  core: B
   link: https://pkc.iacr.org/2020/
   deadline: "2019-11-02 09:59"
   timezone: Etc/UTC
@@ -277,6 +292,7 @@
 - name: SAC
   description: Conference on Selected Areas in Cryptography
   year: 2021
+  core: B
   link: https://www.sac2021.ca/
   deadline: "2021-07-12 23:59"
   date: September 29 - October 1
@@ -288,6 +304,7 @@
 - name: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
   year: 2021
+  core: A
   link: https://www.raid2021.org
   deadline: "2021-03-26 23:59"
   date: October 6-8
@@ -316,6 +333,7 @@
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
   year: 2022
+  core: A
   link: https://dsn2022.github.io/
   deadline: "2021-12-10 23:59"
   comment: Title and abstract deadline on Dec 3rd
@@ -326,6 +344,7 @@
 - name: ACNS
   description: International Conference on Applied Cryptography and Network Security
   year: 2022
+  core: B
   link: https://sites.google.com/di.uniroma1.it/acns2022
   deadline: 
     - "2021-09-03 23:59"
@@ -346,6 +365,7 @@
 - name: ISC
   description: The Information Security Conference
   year: 2020
+  core: B
   link: https://isc2020.petra.ac.id/
   deadline: "2020-05-28 23:59"
   timezone: Etc/UTC
@@ -375,6 +395,7 @@
 - name: IEEE S&B
   description: IEEE Security & Privacy on the Blockchain
   year: 2021
+  
   link: https://ieeesb.org/
   deadline: "2021-05-14 23:59"
   date: September 7-11
@@ -384,6 +405,7 @@
 - name: NSPW
   description: New Security Paradigms Workshop
   year: 2021
+  core: C
   link: https://www.nspw.org/2021/
   deadline: "2021-06-04 23:59"
   timezone: Etc/GMT+11
