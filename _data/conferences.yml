@@ -10,6 +10,17 @@
   deadline: "2022-04-11 23:59"
   place: Vienna, Austria
   tags: SEC
+  
+- name: CCGrid
+  year: 2022
+  date: "16-19 May 2022"
+  core: A
+  description:  IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing
+  link: https://fcrlab.unime.it/ccgrid22/
+  comment: Title and abstract deadline on December 8th
+  deadline: "2021-12-15 23:59"
+  place: Taormina (Messina), Italy
+  tags: [SEC, PRIV, COM]
     
 - name: S&P (Oakland)
   year: 2022
