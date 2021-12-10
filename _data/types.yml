@@ -7,3 +7,5 @@
   tag: CRYPTO
 - name: Computer
   tag: COM
+- name: IoT
+  tag: IOT
