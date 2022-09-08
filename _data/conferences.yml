@@ -66,6 +66,18 @@
   place: Porto, Portugal
   tags: SEC
   
+# Distributed computing or machine learning
+- name: ICDCS
+  description: International Conference on Distributed Computing and Supercomputing
+  year: 2023
+  core: A
+  link: https://icdcs2023.icdcs.org/
+  deadline: "2023-01-21 23:59"
+  date: July 18-21
+  comments: Title and abstract deadline on Jan 14
+  place: Hongkong, China
+  tags: COM
+  
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
   year: 2022
@@ -96,7 +108,7 @@
   date: Dec 5 - 9
   comments: Title and abstract deadline on Aug 31
   place: Quangzhou, China
-  tags: COM
+  tags: SEC
   
 - name: ESORICS
   year: 2022
@@ -159,18 +171,6 @@
   date: December 13-15
   place: Vienna, Austria
   tags: [SEC, PRIV, CRYPTO]
-
-# Distributed computing or machine learning
-- name: ICDCS
-  description: International Conference on Distributed Computing and Supercomputing
-  year: 2023
-  core: A
-  link: https://icdcs2023.icdcs.org/
-  deadline: "2023-01-21 23:59"
-  date: July 18-21
-  comments: Title and abstract deadline on Jan 14
-  place: Hongkong, China
-  tags: COM
 
 - name: ISSRE
   description: International Conference on Distributed Computing and Supercomputing
